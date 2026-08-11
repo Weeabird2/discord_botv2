@@ -1,6 +1,9 @@
+## 99% Vibecoded
+
 # WoW Raid Manager Bot
 
 Discord-Bot auf TypeScript-Basis, der jede Woche automatisch eine Verfuegbarkeitsabfrage fuer die kommende Raid-Woche erstellt und am Mittwoch die zwei Tage mit den meisten Zusagen auswertet.
+
 
 ## Funktionen
 
